@@ -67,5 +67,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
--  Website [your-website.com](https://interior-consultant-lp.netlify.app/)
+-  Website [Interior Consultant](https://interior-consultant-lp.netlify.app/)
 -  GitHub [eZOZBEK36](https://github.com/eZOZBEK36)
